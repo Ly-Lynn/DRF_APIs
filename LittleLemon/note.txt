@@ -1,0 +1,12 @@
+- admin account: 
+    username: lynn
+    password: 123
+- managers:
+    username: lynn_manager
+    password: Linh040202.
+- delivery:
+    username: lynn_delivery
+    password: Linh040202.
+- customers:
+    username: lynn_customer
+    password: Linh040202.
